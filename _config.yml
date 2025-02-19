@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ruoyu Chen"
+title                    :
 title_separator          : "-"
 name                     : &name "Ruoyu Chen"
 description              : &description "personal description"
