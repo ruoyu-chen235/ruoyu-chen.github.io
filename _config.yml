@@ -23,9 +23,9 @@ repository               : "ruoyu-chen235/ruoyu-chen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruoyu Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a first-year PhD student in economics. My current interests are microeconomic theory and statistics, especially statistical decision theory, information theory and learning."
   location         : "Berkeley, California"
   employer         : "University of California, Berkeley"
   uri              : # URL
