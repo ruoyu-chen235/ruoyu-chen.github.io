@@ -26,10 +26,10 @@ author:
   name             : "Ruoyu Chen"
   pronouns         : # example: "she/her"  
   bio              : "I am a first-year PhD student in economics. "
-  location         : "Berkeley, California"
+  location         :
   employer         : "University of California, Berkeley"
   uri              : # URL
-  email            : "ruoyu.chen@berkeley.edu" 
+  email            : "ruoyu_chen@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
